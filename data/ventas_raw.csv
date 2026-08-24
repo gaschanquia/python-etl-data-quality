@@ -1,0 +1,14 @@
+id,producto,precio,cantidad,estado
+201,Notebook,1250000,1,Entregado
+202,Mouse,35000,3,Entregado
+203,Monitor,420000,2,Cancelado
+204,Teclado,95000,2,Pendiente
+205,Auriculares,120000,3,Entregado
+206,Webcam,85000,2,Entregado
+207,Silla Gamer,310000,1,Pendiente
+208,Microfono,145000,2,Entregado
+209,Parlantes,hola,2,Entregado
+210,,75000,3,Entregado
+211,Mousepad,25000,0,Entregado
+212,Disco SSD,abc,1,Pendiente
+213,Memoria RAM,90000,-2,Entregado

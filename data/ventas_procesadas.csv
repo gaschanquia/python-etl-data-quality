@@ -1,0 +1,9 @@
+id,producto,precio,cantidad,estado,subtotal,validado
+201,Notebook,1250000,1,Entregado,1250000,True
+202,Mouse,35000,3,Entregado,105000,True
+203,Monitor,420000,2,Cancelado,840000,False
+204,Teclado,95000,2,Pendiente,190000,True
+205,Auriculares,120000,3,Entregado,360000,True
+206,Webcam,85000,2,Entregado,170000,True
+207,Silla Gamer,310000,1,Pendiente,310000,True
+208,Microfono,145000,2,Entregado,290000,True

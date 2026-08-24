@@ -1,0 +1,6 @@
+id,producto,precio,cantidad,estado,motivo_rechazo
+209,Parlantes,hola,2,Entregado,precio_invalido
+210,,75000,3,Entregado,producto_vacio
+211,Mousepad,25000,0,Entregado,cantidad_no_positiva
+212,Disco SSD,abc,1,Pendiente,precio_invalido
+213,Memoria RAM,90000,-2,Entregado,cantidad_no_positiva
