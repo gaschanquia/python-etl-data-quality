@@ -34,3 +34,14 @@ El proceso:
 ## Objetivo
 
 Proyecto práctico orientado al aprendizaje de conceptos fundamentales de Data Engineering: ETL, validación, transformación, calidad de datos y trazabilidad.
+
+## Resultados
+
+El pipeline procesó 13 registros:
+
+- 8 registros válidos y transformados.
+- 5 registros rechazados con motivo documentado.
+- 4 reglas de calidad implementadas.
+- 7 ventas no canceladas y 1 cancelada.
+
+Los archivos generados se encuentran disponibles en `data/ventas_procesadas.csv` y `data/ventas_rechazadas.csv`, permitiendo verificar los resultados y el motivo de rechazo de cada registro inválido.
